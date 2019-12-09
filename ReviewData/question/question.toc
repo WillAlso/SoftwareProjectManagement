@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}走进IT项目管理}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.}项目的定义、特征}{3}{section.1.1}%
+\contentsline {section}{\numberline {2.}判断下面哪些活动是项目}{3}{section.1.2}%
+\contentsline {section}{\numberline {3.}PMI：美国项目管理协会}{3}{section.1.3}%
+\contentsline {section}{\numberline {4.}什么是项目？什么是项目管理？导致IT项目失败的主要原因是什么？}{3}{section.1.4}%
+\contentsline {section}{\numberline {5.}什么是软件项目？如何分类？软件项目的特点主要表现在哪些方面？}{3}{section.1.5}%
